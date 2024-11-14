@@ -9,7 +9,7 @@ Welcome to Ice Cream Truck Tycoon! This software allows you to simulate managing
 
 # Building the Software 
 Follow these steps to compile the software from the source code: 
-1. Clone the repository from Atlassian Bitbucket: (git clone https://repo.csd.uwo.ca/scm/compsci2212_w2024/group48.git) 
+1. Clone the repository 
 2. Download OpenCSV 3.8 library from here: https://repo1.maven.org/maven2/com/opencsv/opencsv/3.8/opencsv-3.8.jar and add it to the project's classpath. 
 3. Install JavaFX version 22 by following the instructions provided on the official website: https://gluonhq.com/products/javafx/. 
 There is also a YouTube video tutorial (for Eclipse IDE) that you can follow instead if you prefer; watch the video attached here: https://youtu.be/nz8P528uGjk?si=HYVwjeJGIRKh3m1n. 
